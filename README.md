@@ -1,4 +1,4 @@
-# Discord Token Generator
+# Jenus
 * Python : 3.6+
 ***
 ## Installing Requests:
